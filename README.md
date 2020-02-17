@@ -1,4 +1,4 @@
-# camera_testing
+# Deep learning on the edge devices.
 
 A new Flutter project.
 
